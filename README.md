@@ -13,3 +13,7 @@ Twitter: [@k1rill_fedoseev](http://twitter.com/k1rill_fedoseev)
 ## February 2024
 
 1. [M^0 - decentralized money middleware](./solo/MZero.md)
+
+## March 2024
+
+1. [M^0 NFT custody - NFT-based delegation wrapper](./solo/MZeroNFTCustody.md)
