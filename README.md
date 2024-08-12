@@ -17,3 +17,7 @@ Twitter: [@k1rill_fedoseev](http://twitter.com/k1rill_fedoseev)
 ## March 2024
 
 1. [M^0 NFT custody - NFT-based delegation wrapper](./solo/MZeroNFTCustody.md)
+
+## July 2024
+
+1. [M^0 Wrapped M Token - non-rebasing token wrapper](./solo/MZeroWrappedM.md)
