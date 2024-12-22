@@ -21,3 +21,7 @@ Twitter: [@k1rill_fedoseev](http://twitter.com/k1rill_fedoseev)
 ## July 2024
 
 1. [M^0 Wrapped M Token - non-rebasing token wrapper](./solo/MZeroWrappedM.md)
+
+## November 2024
+
+1. [M^0 M Portal - Wormhole NTT bridging for M](./solo/MZeroMPortal.md)
